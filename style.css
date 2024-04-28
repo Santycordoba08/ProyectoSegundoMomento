@@ -671,3 +671,35 @@ img {
     right: 1.25rem;
   }
 }
+
+/*estilos wilmar de informacion general*/
+
+
+aside[itemscope] {
+  background: #22222224;
+  overflow: hidden;
+  color: #fff;
+  padding: .5rem;
+  padding-right: 2rem;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+aside[itemscope] h1 {
+  margin-bottom: .5rem;
+  margin-top: 2rem;
+  font-size: 3rem;
+}
+
+aside[itemscope] p {
+  
+  line-height: 1.5;
+  font-size: 1.4rem;
+}
+
+aside[itemscope] .wrap {
+  float: left;
+  width: 50%;
+  height: auto;  
+  shape-margin: 2em;
+}
