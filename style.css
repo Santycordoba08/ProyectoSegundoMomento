@@ -10,7 +10,9 @@ body {
   color: #000;
   font-size: 15px;
   line-height: 1.5;
-
+  background: rgb(2,0,36);
+  background: rgb(0,212,255);
+  background: linear-gradient(90deg, rgba(0,212,255,1) 14%, rgba(213,214,233,0.48511904761904767) 50%, rgba(2,0,36,1) 100%);
 }
 
 a {
